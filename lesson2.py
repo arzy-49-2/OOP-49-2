@@ -66,3 +66,5 @@ hero_mage = Mage("Гендальф", 100, 1000)
 
 print(hero_mage.rest())
 print(hero_mage.action())
+
+# Изменение в файле
