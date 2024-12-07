@@ -14,3 +14,9 @@
 4) git branch ---- показывает ветки атак же показыввает текущую ветку
 5) git push origin master ---- отправляет изменения на github
 
+
+Удаление папки с файлами
+git rm -r .idea
+git commit -m "Delete: уалили папку .idea"
+
+Сооздаете файл  git .gitignore

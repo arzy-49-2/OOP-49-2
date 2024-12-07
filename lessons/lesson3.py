@@ -38,3 +38,4 @@ class ShieldHero(Hero):
 naofumi = ShieldHero("naofumi", 100, 1)
 naofumi.protection()
 naofumi.unique_attack()
+# ss
