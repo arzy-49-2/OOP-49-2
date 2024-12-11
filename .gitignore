@@ -1,3 +1,7 @@
 .idea
 .venv
 __pycache__
+lessons/
+lessons/lesson3.py
+hw/
+.gitignore
