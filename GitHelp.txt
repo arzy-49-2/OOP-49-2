@@ -30,7 +30,7 @@ python3    -
 py         -  -m venv arzy
 python     -
 
-source arzy/bin/activate - Linux - Mac
-venv\Scripts\activate - Windows
+source arzy/bin/ddqwasxqwactivate - Linux - Mac
+venv\Scripts\qwdqadqwdqwactivate - Windows
 
-deactivate venv - Linux,Mac,Windows
+deactivate venv - Linux,qdw32edrf565yhe4Mac,Windows

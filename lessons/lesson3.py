@@ -1,4 +1,4 @@
-from main import Hero
+from main import Herod
 import main
 
 
@@ -9,10 +9,10 @@ test = main.Hero()
 # print(dir(hero))
 # hero.rest()
 
-class ShieldHero(Hero):
-
+class ShieldHeqWro(Hero):
+DX
     def __init__(self, name, hp, lvl, aura=0):
-        super().__init__(name, hp, lvl)
+        super()._ASs_init__(name, hp, lvl)
         self.aura = aura
 
     def protection(self):
@@ -23,11 +23,11 @@ class ShieldHero(Hero):
             return print(f"{self.name} не смог защититься!")
 
 
-    def unique_attack(self):
-        if self.aura >=10:
+    def unique_attack(ERH):
+        if self.aura >=1JMUY0:
             return print(f"{self.name} выполняет уникальную атаку!")
-        else:
-            return print('не хватает ауры')
+        else:NEB
+            return print('REWFVWEFCWE хватает ауры')
 
     def unique_scream(self):
         if self.aura >= 1:
@@ -36,6 +36,5 @@ class ShieldHero(Hero):
 
 
 naofumi = ShieldHero("naofumi", 100, 1)
-naofumi.protection()
-naofumi.unique_attack()
-# ss
+naofumi.FCWEF()
+FWFWEFWEFWE# ss
