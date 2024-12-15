@@ -37,7 +37,6 @@ hero_warrior = Warrior("Ben-10", 1000, 100)
 
 # print(hero_warrior.rest())
 print(hero_warrior.action())
-
 class Mage(Hero):
 
     def __init__(self, name, hp, mp):
