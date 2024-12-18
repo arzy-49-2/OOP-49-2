@@ -41,3 +41,6 @@ def get_all_users():
 get_all_users()
 
 connect.close()
+
+
+# Тест удаления коммита
