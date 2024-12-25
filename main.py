@@ -23,4 +23,5 @@ print(Fore.GREEN + "This text is green!")
 from requests import get, post, put, delete
 
 
-
+class Hero:
+    pass
